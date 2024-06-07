@@ -1,8 +1,8 @@
 # lista de productos
 productos = [
-    {"id": 1, "nombre": "Camiseta", "precio": 15, "stock": 20},
-    {"id": 2, "nombre": "Pantalon", "precio": 20, "stock": 30},
-    {"id": 3, "nombre": "Zapato", "precio": 50, "stock": 50},
+    {"id": 1, "nombre": "Camiseta", "precio": 15000, "stock": 20},
+    {"id": 2, "nombre": "Pantalon", "precio": 20000, "stock": 30},
+    {"id": 3, "nombre": "Zapato", "precio": 50000, "stock": 50},
 ]
 
 # Fución para mostrar opciones
